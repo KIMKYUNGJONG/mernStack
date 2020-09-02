@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://awesomeMango:mskkj30402@cluster0.lastt.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://awesomeMango:mskkj30402@cluster0.lastt.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtToken": "mysecrettoken"
 }
