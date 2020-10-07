@@ -10,3 +10,4 @@
   create user profile & update user profile 생성.
   get All profiles 생성.
 - 2020/10/07 : profile 모델 api 구축 종료.
+- 2020/10/08 : back end 구축 종료. front end 구축 시작.
