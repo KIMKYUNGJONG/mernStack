@@ -9,3 +9,4 @@
 - 2020/09/07 : mongoose profile 모델 생성. get, post api구축.
   create user profile & update user profile 생성.
   get All profiles 생성.
+- 2020/10/07 : profile 모델 api 구축 종료.

@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://awesomeMango:mskkj30402@cluster0.lastt.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtToken": "mysecrettoken"
+    "jwtToken": "mysecrettoken",
+    "githubClientId": "95c4a93c76cabbba1a3f",
+    "githubSecret": "158c71c81462b09a2dec7b6da807681f4fca9f2c"
 }
